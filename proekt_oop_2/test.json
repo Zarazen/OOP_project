@@ -1,0 +1,15 @@
+{
+"scheme":"brawl",
+"numberteams":4,
+"team1":"levski",
+"team2":"cska",
+"team3":"botev",
+"team4":"lokomotiv",
+"lenght":2,
+"courts":2,
+"hour":15,
+"day":10,
+"month":5,
+"year":1999,
+"exittype":"txt"
+}
